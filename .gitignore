@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+*.iml
+*.xml
+.idea
+
+/output/
+/node_modules/
+/allure-results/
+/allure-report/

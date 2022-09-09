@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Аникита",
+        "job": "Генеральный операционный помощник",
+        "id": "355",
+        "createdAt": "2022-09-09T12:35:25.175Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 12:35:25 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"94-MQXMo77VGnB8fUPNHiuVbdX3EAk\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=%2FNS0zHgmzKDVbmcTpwL9%2Fz5ioiV%2FTbddpwFajKnGjMQ9lje%2BA7%2FGXLc8Vpfw8kPuM4KpE4UH7%2B98YZXvCxhfBgOKetSJeGeNZaU5mOCHM849QfLVOfx%2BpXhVdQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747ff6b149b66fb0-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "148"
+    }
+}

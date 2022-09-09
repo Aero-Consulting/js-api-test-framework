@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Тарас",
+        "job": "Областной маркетинговый архитектор",
+        "id": "186",
+        "createdAt": "2022-09-09T12:09:49.663Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 12:09:49 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"92-03R9OWKm/5IuOsSiGTbrsbDWJak\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=aUgtpVhpvpjnJCP5HH0f1A4GyeKuPVgPqAxcP3yPUDUk8AKmt4dMco1ssjS61ySYcVtHU1brnxUKi3jc1NwAU8eV2aqiU%2FpUwUp%2F%2BZFAhh%2BiWvvRSWhKNwq7KA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747fd133aa8a9652-SJC",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "146"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Вацлав",
+        "job": "Центральный коммуникационный помощник",
+        "id": "825",
+        "createdAt": "2022-09-09T12:20:07.710Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 12:20:07 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"9a-CfPUdcp+GGYD/4Sugd4HjlxdkzY\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=j2LWO9BYbESfOU9X7jotcbcX48umFuaHWwW9AxokC9Dw6uxmcUiJhEDQPrJUE1vMwIoU0gso8lNL73RL6iHot2r49zivGe5Zik6gM6fCjarjxeNeUDcgRaL0PA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747fe04b2f8d5af3-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "154"
+    }
+}

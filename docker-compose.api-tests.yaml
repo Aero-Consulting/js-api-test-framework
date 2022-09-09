@@ -7,6 +7,9 @@ services:
       dockerfile: Dockerfile-autotests
     volumes:
       - ./allure-results/:/home/tests/allure-results
+    depends_on:
+      mockserver:
+        condition: service_healthy
     networks:
       - api
 
@@ -25,6 +28,11 @@ services:
       --port 8081
       --root-dir /mocks
       --proxy-all https://reqres.in
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://mockserver:8081" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
     networks:
       - api
 

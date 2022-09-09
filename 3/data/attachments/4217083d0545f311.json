@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Валерий",
+        "job": "Центральный интеграционный аналитик",
+        "id": "157",
+        "createdAt": "2022-09-09T11:48:47.612Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 11:48:47 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"98-UsLAVrWzWNtF5u7CNEy+aRsPsws\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=bKnZsUQJ5kveB0ZKlxflbP9GN0qD%2FhKNezqaIWHhkwQl%2F1IgiO1JR2Ojm%2Bjxb%2B7eNsIMpBUiZaY4XOTAttnl0qQVkH8ZpwsEKCQcLU21mBFPHshrssO6fzPhaA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747fb263e82b7b14-LAX",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "152"
+    }
+}

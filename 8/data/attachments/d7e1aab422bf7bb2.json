@@ -1,0 +1,23 @@
+{
+    "data": {
+        "token": "QpwL5tke4Pnpja7X4"
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 12:25:09 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"1d-lGCrvD6B7Qzk11+2C98+nGhhuec\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=BaeOEfGInDwfQaZy8mmAop2q5us63apAnDVmqCPPbZfGitox5M%2F3eVokFn8AEkbdKMsxMkAG5B5Un8O%2Fj1tkg5o3XTneFtbGhAH4TXZGyHle5aSbxCgWXqjopA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747fe7ab5c0b7acf-LAX",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "29"
+    }
+}

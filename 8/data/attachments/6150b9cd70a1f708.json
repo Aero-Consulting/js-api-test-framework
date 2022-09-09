@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Викторин",
+        "job": "Региональный коммуникационный координатор",
+        "id": "49",
+        "createdAt": "2022-09-09T12:25:08.501Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Fri, 09 Sep 2022 12:25:08 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"a5-SiGE/jInVif3lOtQPwHeDe0RLQg\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8HhDKvJ2WhcOL4TJ56nPfxcu4k5%2Fk5YGeAfzfduUQJKQgzVH9E%2BDrulscGQdvAiaGS7ZtPixxZgK%2Fx6rfHzKvGjzCWtKBn3YroZ7DN0Ns9ZfiJizdXjIxSKQYQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "747fe7a27dbc5325-LAX",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "165"
+    }
+}

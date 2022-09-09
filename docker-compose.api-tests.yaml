@@ -1,0 +1,41 @@
+version: '3.9'
+services:
+  autotests:
+    container_name: autotests
+    build:
+      context: .
+      dockerfile: Dockerfile-autotests
+    volumes:
+      - ./allure-results/:/home/tests/allure-results
+    depends_on:
+      mockserver:
+        condition: service_healthy
+    networks:
+      - api
+
+  mockserver:
+    container_name: mockserver
+    build:
+      context: .
+      dockerfile: Dockerfile-wiremock
+    ports:
+      - 8081:8081
+    volumes:
+      - ./mocks/:/mocks
+    command: |
+      --global-response-templating
+      --verbose 
+      --port 8081
+      --root-dir /mocks
+      --proxy-all https://reqres.in
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://mockserver:8081" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - api
+
+networks:
+  api:
+    name: api

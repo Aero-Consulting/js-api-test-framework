@@ -3,6 +3,8 @@ const https = require('https');
 const merge = require('lodash.merge');
 
 const Helper = require('@codeceptjs/helper');
+const Ajv = require("ajv")
+const ajv = new Ajv()
 
 class ApiHelper extends Helper {
   constructor(config, options = {}) {
@@ -32,7 +34,7 @@ class ApiHelper extends Helper {
           headers: config.headers,
           data: config.data
         }
-        
+
         addAttachment('Request', JSON.stringify(configAttachment, null, 4), 'application/json');
         return config;
       }, async (error) => {
@@ -98,6 +100,14 @@ class ApiHelper extends Helper {
       const { errors } = this.response.data
       expect(errors.map((e) => e.message).includes(message),
         `Ответ не содержит сообщение об ошибке ${message}.\nТело ответа: ${JSON.stringify(this.response.data, null, 2)}`).to.be.true
+    })
+  }
+
+  async checkResponseSchema(schemaName) {
+    await createStep(`Ответ соответствует схеме = "${schemaName}"`, () => {
+      const { data } = this.response;
+      const validate = ajv.compile(require(`../../schemas/${schemaName}`));
+      expect(validate(data), `Ответ не соответствует схеме ${schemaName}`).to.be.true
     })
   }
 }

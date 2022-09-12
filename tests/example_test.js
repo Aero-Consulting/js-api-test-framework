@@ -32,3 +32,9 @@ Scenario('Ответ с заглушкой от мок сервера', async ()
   await ReqResServiceSteps.checkResponseStatusCode(200)
   await ReqResServiceSteps.checkFieldValueEquals('id', 'Hello world!')
 });
+
+Scenario.only('Контрактный тест', async () => {
+  await ReqResServiceSteps.sendRegistrationUserRequest(userCredentials())
+  await ReqResServiceSteps.checkResponseStatusCode(200)
+  await ReqResServiceSteps.checkResponseSchema('schema.json')
+});

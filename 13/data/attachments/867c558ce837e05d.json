@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Епифан",
+        "job": "Генеральный коммуникационный дизайнер",
+        "id": "202",
+        "createdAt": "2022-09-12T09:16:58.459Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 12 Sep 2022 09:16:58 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"9a-FyFGuLn36b6HCGZQ7L+QoUnIeb0\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8sGaDWnM3StmQ5y%2F4l3a1R%2BsYrOOt8O4ZJgTMhQWDUjlfHqaj1yOfUjyUTPdkVRfecR%2BSOLUHzqI4bar5SdZ67QnBh%2B5cWKpcwltSutG7kpSsY%2B%2F7g4IfyWxaA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "74978c205d262c58-ORD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "154"
+    }
+}

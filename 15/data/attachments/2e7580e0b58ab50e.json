@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Митофан",
+        "job": "Национальный коммуникационный архитектор",
+        "id": "589",
+        "createdAt": "2022-09-19T19:38:17.825Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 19 Sep 2022 19:38:17 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"a2-MygYLns8lVZlY81Q71pNaXe/lAc\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nUBNDThbnlbByxYJ1oBaUZ706BeWlVYDfjvNitVcfAra3bkoq6JbNMwtmRCtLtaXC5T%2F7SQ7hvqFpteMCL%2Fvf5taUsdKFdBi%2B7oZ1YjTNhqPRQLXEgaqZO%2FVgA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "74d4c7e3bd9bcf19-SJC",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "162"
+    }
+}

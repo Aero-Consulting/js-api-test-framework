@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Пахом",
+        "job": "Ведущий операционный аналитик",
+        "id": "469",
+        "createdAt": "2022-09-26T19:35:57.570Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 26 Sep 2022 19:35:57 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"88-BDfvspXTJ3GfNxyXxfSCSvENppc\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Y6%2F7S%2BaEIpNL7TDgLkKfIeKJlUeNfPV9hwcvmPeqkgrVM3h5EHynuKZDMtn3asP9TKB9Zp85%2BbNr37Ob52EWsuC6S4tq08857tae4KHeLQl7zE%2FZX0lheCqfxA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "750e72174c929655-SJC",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "136"
+    }
+}

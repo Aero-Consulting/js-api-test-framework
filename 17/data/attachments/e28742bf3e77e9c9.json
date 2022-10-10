@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Любим",
+        "job": "Ведущий коммуникационный руководитель",
+        "id": "345",
+        "createdAt": "2022-10-10T19:54:14.348Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 10 Oct 2022 19:54:14 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"98-cmPiobtvMa/M062MIr/NKkjGzac\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=omdy6BlRUDLqoOX4AFaBvMdORG6AYajTCyzRDWFyIGhKsyCYl21J%2FIt4pRB2AQ%2BZzkZQrTz4wioOpNCfHJyz8LgJqOkdvz%2BOsa%2FTmODNdssieyZVFQfCr5fn1g%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "7581e81eb8795b6b-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "152"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Изот",
+        "job": "Областной страховой агент",
+        "id": "681",
+        "createdAt": "2022-10-24T19:41:02.584Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 24 Oct 2022 19:41:02 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"7e-hM2iyO3hAKUJaOydyZhGESlrKto\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Thyf11VWaOL1Wq21iKePOzc%2Fdh19YkfxjJIn2Pxc5W%2BzgJU0saIQ5dMTR%2F%2FVm8hYPyC65UutIEzvX%2Fyslt%2BN9u9mag7AwBHt8gOb01oRdIU%2ByrDMl1KOWUtrrQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "75f5300a0f3c8764-ORD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "126"
+    }
+}

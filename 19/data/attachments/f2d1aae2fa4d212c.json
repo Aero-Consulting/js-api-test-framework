@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Януарий",
+        "job": "Международный функциональный архитектор",
+        "id": "946",
+        "createdAt": "2022-11-28T19:10:11.530Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 28 Nov 2022 19:10:11 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"a0-W/wZLad/Xp206iKV9Nn0K1kUfuA\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=5pYNHyTGv8c4v8hnMzTZa3sX1NuMwoVUXlewhgPqnbO%2FYhSpo6yKzz9gyZ7H%2BBHUtC5ksu1BiODD%2BqD%2FVP5XxUrDl6tBt3mgZz9x5TboZ6AaLR6eVuOKdK6k0A%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "771566f90fec207c-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "160"
+    }
+}

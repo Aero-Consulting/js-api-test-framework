@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Владлен",
+        "job": "Центральный операционный руководитель",
+        "id": "230",
+        "createdAt": "2022-12-05T19:09:38.439Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 05 Dec 2022 19:09:38 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"9c-iMtW7c8T6i/sIleoVWMNsRqLws8\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=5IzWdxSpRDcFQ1KFBSdlJK1mVmGDEsHT%2BhDNCBmaSSzd5wlTePtNDQwerdQRO9MUHbT%2BvmVS4RFgYNkuubd7S5QvdwT4CBmnUJG%2BpGpQfs2EX6KAeQT0CgVJcw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "774f13c99bfb7ce3-LAX",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "156"
+    }
+}

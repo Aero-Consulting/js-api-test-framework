@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Аполлон",
+        "job": "Областной коммуникационный дизайнер",
+        "id": "817",
+        "createdAt": "2022-12-19T19:09:46.991Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 19 Dec 2022 19:09:47 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"98-+rhJNfzhf5ttgG0P/F7p5KE7D4s\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=az62cxwL0wP1nheWr6eBqoYhKmyGAzrjaQUTZ%2BhbVnmKgWkqWSB21uyHFwXmD5usGdic62atLTeI9NRSYrxkAyzuIQTpKJdoVUe48LWMctta3p8ZkLmeKQAKRw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "77c26f3fafb4800b-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "152"
+    }
+}

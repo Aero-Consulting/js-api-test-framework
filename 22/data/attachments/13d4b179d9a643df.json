@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id": "Hello world!"
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "connection": "close, ",
+        "content-type": "application/json; charset=utf-8",
+        "cache-control": "private",
+        "matched-stub-id": "36ea84ba-fc6e-423e-a5f2-6e2a235baadd",
+        "vary": "Accept-Encoding, User-Agent"
+    }
+}

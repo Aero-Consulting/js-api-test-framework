@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Адриан",
+        "job": "Региональный оптимизационный менеджер",
+        "id": "728",
+        "createdAt": "2023-01-02T19:15:46.673Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 02 Jan 2023 19:15:46 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"9a-RfzqhWIVDH5Pc2fonqlW8nP2S/I\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=cElKnp8fbyfSI12jbgzOg765NkCNXHhzVQ6GpmNkzpsrgG1QpyzQDmBkrc1ohqy1rdTs0D3YeeA%2BfwtdE%2FthQlMeJopGAWTi6evlDJSre%2F5VwKHLJ0oAYHdkbQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "7835d347b9e50327-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "154"
+    }
+}

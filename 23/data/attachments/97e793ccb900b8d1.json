@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Иларион",
+        "job": "Национальный маркетинговый дизайнер",
+        "id": "402",
+        "createdAt": "2023-01-16T19:08:34.108Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 16 Jan 2023 19:08:34 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"98-yGks3fLcvggoNbdZMKyItSNGBjg\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=vHCFLNUOmoowjG5iCopIzP3YQB8hLRr2o0pAkKKz%2FhQ6QrI1itN%2FKYCdR78HSiiziMlDoQGAmfR5DvO%2BsW3g20HKdRP5hL8iMviGVlbJqVKaNJX2Ttlg9kMKlw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "78a923f7bbe7fae7-SJC",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "152"
+    }
+}

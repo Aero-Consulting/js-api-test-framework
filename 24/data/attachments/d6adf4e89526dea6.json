@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Петр",
+        "job": "Областной логистический разработчик",
+        "id": "137",
+        "createdAt": "2023-01-30T19:11:46.587Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 30 Jan 2023 19:11:46 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"92-2ErsAo7wKKRoIrr7Ps0Iikwek2I\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=gaXGur5JbZxCSHk7UntmdbI%2FabGK5WGZ6bQsQ4zWd%2BhzoLdUuAyng468h1fVoB5vkPNlkcN6IqJ%2FgrGkpXodzm13qw6S1QdkpaSmynbRM6tUzVTOEBkH8lo%2BJw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "791c83eb3f205ae0-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "146"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Виссарион",
+        "job": "Национальный маркетинговый дизайнер",
+        "id": "923",
+        "createdAt": "2023-02-13T20:10:10.310Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 13 Feb 2023 20:10:10 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"9c-HfrNptPCjTjgcX6NVlTTIcXOtUM\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7g8D237y4QEtjQ6i1VOyAEYZ01I5Ct4NDTSZEDzz%2BSUnCjcBEFM824vjx7XZ3%2BhW85rnSAQHTw1w%2FZ%2FoRJh%2FpgpjIuBQJ5IQbj0e0oxxSwf95XlGYEfP0gR6%2Fg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "799034b58af6cf34-IAD",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "156"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "name": "Сократ",
+        "job": "Национальный логистический помощник",
+        "id": "875",
+        "createdAt": "2023-02-27T20:19:43.309Z"
+    },
+    "status": 201,
+    "statusText": "Created",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 27 Feb 2023 20:19:43 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"96-8sRz9nM1XmVUoj7gi5ZcgLiC/pc\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=1fXs08yijH0xzTygGqhtTTu0t59%2BI346KQCYBMz8BIm84K9bSvOUslUw9Zf%2B32L2Gq3jzu3t4yy3NJdLLJY%2FNEQyL754tXfw8fJRJmLO2Od%2FswMGxJFc4fn1Mw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "7a039df229b47ec6-LAX",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "150"
+    }
+}

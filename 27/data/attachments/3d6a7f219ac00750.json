@@ -1,0 +1,23 @@
+{
+    "data": {
+        "token": "QpwL5tke4Pnpja7X4"
+    },
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 13 Mar 2023 20:06:34 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"1d-lGCrvD6B7Qzk11+2C98+nGhhuec\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=2M0NMcLz087rd6xgY5JhwnKj1ofmxmBcquHxUSvf8Jn3TPHgS76CzOkcagRSz5Hk1vRVk8hKImU7TgzMRARETWYxX427VuQyd%2FY%2F4yWAFczR9AINGK1i51Lx%2FA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "7a76e5f1ba15e756-DFW",
+        "vary": "Accept-Encoding, User-Agent",
+        "content-length": "29"
+    }
+}

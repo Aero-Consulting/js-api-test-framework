@@ -1,0 +1,22 @@
+{
+    "data": {
+        "error": "Missing password"
+    },
+    "status": 400,
+    "statusText": "Bad Request",
+    "headers": {
+        "connection": "close",
+        "date": "Mon, 13 Mar 2023 20:06:35 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "x-powered-by": "Express",
+        "access-control-allow-origin": "*",
+        "etag": "W/\"1c-NmpazMScs9tOqR7eDEesn+pqC9Q\"",
+        "via": "1.1 vegur",
+        "cf-cache-status": "DYNAMIC",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=pcrBjizatJg7rpQ4P2r%2F1k4OKEegYgqE5PkkKZ156fU80Ddsi%2FQmSB38JCiCTfFqkbk3vs9eV1hzHYizBg%2BupPdB9Zmqea7ByRGkJT8zkUlP%2BPGpaTMJs%2Ff8yg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "7a76e5f3ad89ea42-DFW",
+        "content-length": "28"
+    }
+}
